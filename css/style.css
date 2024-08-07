@@ -1,0 +1,75 @@
+
+
+#r_main{
+    width: 800px;
+    min-height: 600px;
+    /* background: grey; */
+    float: left;
+    /* padding: 20px; */
+}
+
+.r_header{
+    width: 100%;
+    min-height: 100px;
+    background: #FED802;
+    float: left;
+    margin-bottom: 15px;
+    
+    /* background-image: url('https://static.vecteezy.com/system/resources/previews/021/069/246/non_2x/3d-purple-luxury-abstract-background-overlap-layers-on-dark-space-with-golden-lines-decoration-graphic-design-element-cutout-style-concept-for-banner-flyer-card-brochure-cover-or-landing-page-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%; */
+}
+
+.r_nav{
+    width: 150px;
+    min-height: 485px;
+    background: #FED802;
+    /* margin-top: 15px; */
+    float: left;
+
+  }
+
+.r_right_side{
+    width: 635px;
+    min-height: 485px;
+    /* background: blue; */
+    float: left;
+    /* margin-top: 15px; */
+    margin-left: 15px;
+}
+
+.r_up{
+    width: 635px;
+    min-height: 370px;
+    /* background: pink; */
+    float: left;
+}
+
+.r_down{
+    width:100%;
+    min-height: 100px;
+    background: #FED802;
+    float: left;
+    margin-top: 15px;
+}
+
+.r_article{
+    width: 520px;
+    min-height: inherit;
+    float: left;
+    background: #FED802;
+    /* margin-right: 15px; */
+}
+
+.r_ads{
+    width: 100px;
+    min-height: inherit;
+    float: left;
+    background: #FED802;
+    margin-left: 15px;
+}
+
+.r_ads img{
+    width: 100%;
+    height: 300px;
+}
